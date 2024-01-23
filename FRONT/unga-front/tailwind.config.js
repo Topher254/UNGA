@@ -6,6 +6,13 @@ export default {
   ],
   theme: {
     extend: {},
+    colors:{
+      primary: 'black',
+      secondary: '#008080',
+      texta: 'white',
+      yella: 'yellow',
+      reda: 'red',
+    },
   },
   plugins: [],
 }
