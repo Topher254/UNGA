@@ -3,9 +3,9 @@ import { ShoppingCart } from "phosphor-react"
 
 const Navbar = () => {
   return (
-    <div className="bg-primary items-center text-texta flex justify-between shadow-md md:px-6 md:py-4 px-8 py-4">
+    <div className="bg-primary items-center text-texta flex justify-between shadow-md md:px-[5em] md:py-4 px-8 py-4">
       <div>
-        <p className="font-bold text-xl font-mono">Unga</p>
+        <p className="font-bold text-2xl border-l-2 pl-2 font-mono">Unga</p>
       </div>
       <div>
         <ul className="md:flex justify-center  items-center list-none font-semibold hover:cursor-pointer hidden md:visible">
